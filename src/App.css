@@ -1,0 +1,36 @@
+.App{
+  background-image: linear-gradient(to right, rgb(0, 159, 255), rgb(236, 47, 75));
+  height: 100vh;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.Search{
+  position: relative;
+  left: 860px;
+  top: 50px;
+  height: 30px;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+}
+
+.SearchButton{
+  height: 30px;
+  width: 100px;
+  position: relative;
+  left: 890px;
+  top: 50px;
+}
+
+.Loginout {
+  position: relative;
+  top: 500px;
+  left: 550px;
+  height: 100px;
+  width: 400px;
+  font-size: 30px;
+  background: linear-gradient(to right, rgb(66, 134, 244), rgb(134, 168, 231), rgb(145, 234, 228));
+  border: 2px solid black;
+}

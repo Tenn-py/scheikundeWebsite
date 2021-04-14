@@ -1,0 +1,222 @@
+.Home {
+    background-image: linear-gradient(to right, rgb(15, 32, 39), rgb(32, 58, 67), rgb(44, 83, 100));
+    height: 100vh;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    position: relative;
+    top: -100px;
+    z-index: -100;
+}
+
+.Text {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 550px;
+    height: 400px;
+    background: white;
+    position: relative;
+    top: 50px;
+    left: 470px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.Uitleg {
+    width: 320px;
+}
+
+.Bubble1 {
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background: white;
+    position: relative;
+    top: 440px;
+    left: 370px;
+}
+
+.Bubble2 {
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background: white;
+    position: relative;
+    top: 540px;
+    left: 400px;
+}
+
+.Test{
+    border: 5px solid black;
+    border-radius: 50%;
+    background: white;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Test:hover{
+    transform: scale(2);
+}
+
+.Appexp{
+    background: #1a2639;
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.Center {
+    display: flex;
+    justify-content: center;
+}
+
+.SettingsButton {
+    height: 7vh;
+    width: 5vw;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 91vh;
+    left: 3.25vw;
+    border: 2px solid white;
+}
+
+.SettingsImg {
+    height: 8vh;
+    width: 5vw;
+}
+
+.SettingsBar {
+    height: 100vh;
+    width: 10vw;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    left: -58vw;
+}
+
+.OverCss {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -1298px;
+    left: 1100px;
+}
+
+.OVerButton {
+    border: 5px solid black;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    justify-content: space-around;
+    align-items: center;
+    background: none;
+    position: relative;
+    left: 0px;
+    top: -5px;
+    font-family: fantasy;
+    font-size: 30px;
+  }
+
+.Close {
+    height: 50px;
+    width: 100px;
+    position: relative;
+    top: 6vh;
+    left: 8.5vw;
+    background: white;
+    border: 2px solid black;
+}
+
+.TextContainer {
+    position: relative;
+    top: 30px;
+    left: 40px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Dark {
+    background: #1a2639;
+    height: 6vh;
+    width: 3.5vw;
+    border-radius: 50%;
+    border: 2px solid white;
+    color: white;
+    position: relative;
+    left: -2vw;
+    top: 2vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2vh;
+}
+
+.Light {
+    background: white;
+    height: 6vh;
+    width: 3.5vw;
+    border-radius: 50%;
+    border: 2px solid black;
+    color: black;
+    position: relative;
+    left: 2vw;
+    top: -4vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2vh;
+}
+
+.Mariusisdik {
+    background: linear-gradient(red, yellow);
+    height: 10vh;
+    width: 6vw;
+    position: relative;
+    left: 2.8vw;
+    top: 7vh;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Water {
+    background: linear-gradient(rgb(0, 0, 255), rgb(171, 197, 255));
+    height: 10vh;
+    width: 6vw;
+    position: relative;
+    left: 2.8vw;
+    top: 15vh;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Proefjes {
+    position: relative;
+    left: 2.5vw;
+    top: 2vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2vw;
+}

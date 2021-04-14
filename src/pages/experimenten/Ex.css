@@ -1,0 +1,43 @@
+.Experiment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px -5px;
+    animation: ease-in-out;
+    transition: 0.5s;
+    flex-direction: column;
+    width: 20vw;
+    height: 10vh;
+    position: relative;
+    background: white;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    margin-left: 25px;
+}
+
+.Experiment:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px -5px;
+}
+
+.Experimenten {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 3vw;
+    top: 2vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0.8vw;
+}
+
+::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: 10px;
+}

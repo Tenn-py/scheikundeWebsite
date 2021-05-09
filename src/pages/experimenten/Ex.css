@@ -8,18 +8,14 @@
     animation: ease-in-out;
     transition: 0.5s;
     flex-direction: column;
-    width: 20vw;
     height: 10vh;
+    width: 40vw;
+    min-width: 250px;
     position: relative;
+    font-size: 1.7vh;
     background: white;
-    justify-content: space-around;
     margin-bottom: 25px;
     margin-left: 25px;
-}
-
-.Experiment:hover{
-    transform: scale(1.1);
-    box-shadow: 0px 0px 15px -5px;
 }
 
 .Experimenten {
@@ -27,10 +23,43 @@
     display: flex;
     flex-direction: column;
     position: relative;
-    left: 3vw;
-    top: 2vh;
+    left: 0vw;
+    top: 15vh;
     overflow-y: scroll;
     overflow-x: hidden;
+}
+
+.AllFilters {
+    background: white;
+    position: absolute;
+    z-index: 10;
+}
+
+.Input {
+    height: 3vh;
+    width: 10vw;
+    margin-bottom: 1vh;
+}
+
+.Vragen {
+    height: 3vh;
+    margin-bottom: 1vh;
+}
+
+.AllInputs {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 10vh;
+    left: 60vw;
+}
+
+.AllVragen {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 10vh;
+    left: 20vw;
 }
 
 ::-webkit-scrollbar {

@@ -25,12 +25,13 @@
 }
 
 .Loginout {
-  position: relative;
-  top: 500px;
-  left: 550px;
-  height: 100px;
-  width: 400px;
-  font-size: 30px;
+  position: absolute;
+  top: 72vh;
+  left: 35vw;
+  width: 30vw;
+  min-width: 300px;
+  aspect-ratio: 6/2;
   background: linear-gradient(to right, rgb(66, 134, 244), rgb(134, 168, 231), rgb(145, 234, 228));
   border: 2px solid black;
+  font-size: calc(10px + 0.5vw);
 }

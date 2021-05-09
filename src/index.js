@@ -7,6 +7,7 @@ import Home from './pages/Home'
 import Test from './pages/Test';
 import About from './pages/About';
 import App from './App'
+import NavbarButton from './pages/experimenten/navbar/NavbarButton'
 
 ReactDOM.render(
   <React.StrictMode>

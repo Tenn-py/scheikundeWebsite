@@ -3,17 +3,27 @@ import Ex1 from './Ex1';
 import Navbar from './navbar/Navbar'
 import Modal from 'react-awesome-modal'
 import { waitFor } from '@testing-library/dom';
+import lib from 'react-awesome-modal';
+import Nakijken from './nakijken'
 
-function Experimenten() {
+function Experimenten(props, filter, background) {
 
-    const experimenten = require('./experimenten.json')
+    const experimenten = require('./Experimenten 2.0.json')
     let personen = []
-    console.log(experimenten)
+    let person = []
     var i;
+    var elim;
     let titels = []
-    let [proef, setproef] = useState(0)
+    const [proef, setproef] = useState(0)
     let benodigheden = []
-
+    var AllFilters = []
+    const filters = []
+    const Vuur = []
+    const Water = []
+    const KleurVerandering = []
+    var f
+    const [text, settext] = useState("white")
+    const [handin, setHandin] = useState(false)
     
     const [visible, setvisible] = useState(false)
 
@@ -26,7 +36,8 @@ function Experimenten() {
     }
 
     for (i in experimenten) {
-        personen.push(experimenten[i].titel)
+        person.push(experimenten[i].titel)
+        titels.push(experimenten[i].titel)
     }
 
     function ExpOpen(what) {
@@ -39,25 +50,110 @@ function Experimenten() {
 
 
     function Exps() {
-        return personen.map((personen) => <div><button className="Experiment" onClick={() => {{ ExpOpen(personen)}}}>{personen}</button></div>   ) 
+
+        if (props.filter == "Vuur") {
+            return Vuur.map((pers) => <div><button className="Experiment" onClick={() => ExpOpen(person[pers])} >{person[pers]}</button></div>)
+        } else if (props.filter == "Water") {
+            return Water.map((pers) => <div><button onClick={() => ExpOpen(person[pers])} className="Experiment">{person[pers]}</button></div>)
+        } else if (props.filter == "Kleurverandering") {
+            return KleurVerandering.map((pers) => <div><button onClick={() => ExpOpen(person[pers])} className="Experiment">{person[pers]}</button></div>)
+        } else if (props.filter == null) {
+            return person.map((person) => <div><button onClick={() => ExpOpen(person)} className="Experiment">{person}</button></div>)
+        }
+
+        
     }
 
-    function benodighedenEx() {
-        
+    function TitelEx() {
+        return <h1 style={{color: text}} className="Titel">{experimenten[proef].titel}</h1> 
+
+    }
+
+    function BenodighedenEx() {
+        const benodigheden = experimenten[proef].benodigheden
+        const benodighedenList = benodigheden.split("-")
+        return benodighedenList.map((benodigheden) => <li style={{color: text}} className="Lijst">{benodigheden}</li>)
+    }
+
+    function Stappen() {
+        const Stappen = experimenten[proef]['methode van onderzoek']
+        const StappenList = Stappen.split("-")
+        return StappenList.map((stappen) => <li style={{color: text}}>{stappen}</li>)
+    }
+
+    function OnderTitel() {
+        return <h3 style={{color: text}} className="Ondertitel">{experimenten[proef].Ondertitel}</h3>
+    }
+
+    function Vragen() {
+        const Vragen = experimenten[proef].Vragen
+        const VragenList = Vragen.split("-")
+        return VragenList.map((Vragen) => <li style={{color: text}}>{Vragen}</li>)
+    }
+
+    function Filter() {
+;
+
+        for (i in experimenten) {
+            filters.push(experimenten[i].Filter)
+        }
+
+        for (f = 0; f<filters.length; f++) {
+            if (filters[f] == "Vuur") {
+                Vuur.push(f)
+            } else if (filters[f] == "Water") {
+                Water.push(f)
+            } else if (filters[f] == "Kleurverandering") {
+                KleurVerandering.push(f)
+            }
+        }
+
+        return <h1 className="AllFilters">{AllFilters}</h1>
+
+    }
+
+    function Handin() {
+        if (handin) {
+            setHandin(false)
+        } else if (!handin) {
+            setHandin(true)
+        }
     }
 
     return (
-
-        
-
         <div className="Experimenten">
+            {Filter()}
             {Exps()}
-            <Modal visible={visible} width="1000" height="700" effect="fadeInDown" onClickAway={() => closeModal()}>
-                    <div>
-                        {benodighedenEx()}
-                        <button className="Close" href="javascript:void(0);" onClick={() => closeModal()}>Sluiten</button>
-                    </div>
+            <Modal className="ProefBack" visible={visible} width="100%" height="100%" effect="fadeInDown" onClickAway={() => closeModal()}>
+                <div style={{background: props.background}} className="ProefBack">
+                    <div className="Proefcontainer">
+                            {TitelEx()}
+                            {OnderTitel()}
+                        <div className="BenodighedenBox">
+                            <h2 style={{color: text}} className="Benodigheden">benodigheden</h2>
+                            {BenodighedenEx()}
+                        </div>
+                        <div className="StappenBox">
+                            <h2 style={{color: text}} className="Stappen">Stappen</h2>
+                            {Stappen()}
+                        </div>
+                        <div className="VragenBox">
+                            <h2 style={{color: text}}>Vragen</h2>
+                            {Vragen()}
+                        </div>
+                        <button className="CloseExp" style={{left: "50vw"}} href="javascript:void(0);" onClick={() => closeModal()}>Sluiten</button>
+                        {/*<button onClick={Handin} className="CloseExp" style={{left: "55vw"}}>nakijken</button>*/}
+                        <Modal className="ProefBack" visible={handin} width="100%" height="100%" effect="fadeInDown" onClickAway={() => closeModal()}>
+                            <div className="ProefBack" style={{background: props.background}}>
+                                <Nakijken proef={proef} />
+                                <button className="CloseExp" onClick={Handin}>close</button>
+                            </div>
+                        </Modal>
+                    </div>                
+                </div>
+
             </Modal>
+            
         </div>
     )
 }

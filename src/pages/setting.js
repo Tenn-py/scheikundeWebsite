@@ -7,6 +7,11 @@ import Text from './Text'
 export default function Setting() {
 
     const [visible, setvisible] = useState(false)
+    const [filter, setFilter] = useState("")
+
+    function VuurFilter() {
+        setFilter("Vuur")
+    }
 
     function openModal() {
         setvisible(true)
@@ -26,6 +31,9 @@ export default function Setting() {
             </button>
             <button className="Water">
                 Water
+            </button>
+            <button className="KleurVerandering">
+                Kleur verandering
             </button>
             <button className="SettingsButton" onClick={() => {openModal()}}>
                 <img className="SettingsImg" src={Settings} alt="" />                

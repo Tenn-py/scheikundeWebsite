@@ -35,7 +35,7 @@ export default class LoginControl extends React.Component {
         button = '';
         home = <Experimenten />
       } else {
-        button = <button className="Loginout" onClick={this.handleLoginClick} >Ga naar het experimenteren zonder in te loggen...</button>;
+        button = <button className="Loginout" onClick={this.handleLoginClick} >Ga naar de experimenteren</button>;
         home = <Home />
       }
   

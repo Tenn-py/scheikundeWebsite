@@ -1,13 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import ExperimentPage from './pages/Experimenten';
 import reportWebVitals from './reportWebVitals';
-import Home from './pages/Home'
-import Test from './pages/Test';
-import About from './pages/About';
 import App from './App'
-import NavbarButton from './pages/experimenten/navbar/NavbarButton'
 
 ReactDOM.render(
   <React.StrictMode>

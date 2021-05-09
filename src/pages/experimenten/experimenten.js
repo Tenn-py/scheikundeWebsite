@@ -1,9 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import Ex1 from './Ex1';
-import Navbar from './navbar/Navbar'
+import React, { useState } from 'react';
 import Modal from 'react-awesome-modal'
-import { waitFor } from '@testing-library/dom';
-import lib from 'react-awesome-modal';
 import Nakijken from './nakijken'
 
 function Experimenten(props, filter, background) {
@@ -129,19 +125,21 @@ function Experimenten(props, filter, background) {
                     <div className="Proefcontainer">
                             {TitelEx()}
                             {OnderTitel()}
-                        <div className="BenodighedenBox">
-                            <h2 style={{color: text}} className="Benodigheden">benodigheden</h2>
-                            {BenodighedenEx()}
+                        <div className="LijstLijst">
+                            <div className="BenodighedenBox">
+                                <h3 style={{color: text}} className="Benodigheden">benodigheden</h3>
+                                {BenodighedenEx()}
+                            </div>
+                            <div className="StappenBox">
+                                <h3 style={{color: text}} className="Stappen">Stappen</h3>
+                                {Stappen()}
+                            </div>
+                            <div className="VragenBox">
+                                <h3 style={{color: text}}>Vragen</h3>
+                                {Vragen()}
+                            </div>
                         </div>
-                        <div className="StappenBox">
-                            <h2 style={{color: text}} className="Stappen">Stappen</h2>
-                            {Stappen()}
-                        </div>
-                        <div className="VragenBox">
-                            <h2 style={{color: text}}>Vragen</h2>
-                            {Vragen()}
-                        </div>
-                        <button className="CloseExp" style={{left: "50vw"}} href="javascript:void(0);" onClick={() => closeModal()}>Sluiten</button>
+                        <button className="CloseExp" style={{left: "40vw"}} href="javascript:void(0);" onClick={() => closeModal()}>Sluiten</button>
                         {/*<button onClick={Handin} className="CloseExp" style={{left: "55vw"}}>nakijken</button>*/}
                         <Modal className="ProefBack" visible={handin} width="100%" height="100%" effect="fadeInDown" onClickAway={() => closeModal()}>
                             <div className="ProefBack" style={{background: props.background}}>

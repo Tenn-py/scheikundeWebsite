@@ -2,7 +2,6 @@ import React from 'react';
 import Experimenten from './pages/Experimenten';
 import Home from './pages/Home'
 import './App.css';
-import Setting from './pages/setting'
 
 export default class LoginControl extends React.Component {
     constructor(props) {

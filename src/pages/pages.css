@@ -156,10 +156,12 @@
 .CloseExp {
     height: 50px;
     width: 100px;
-    position: absolute;
-    top: 80vh;
+    position: relative;
+    top: 30vh;
+    left: 10vw;
     background: white;
     border: 2px solid black;
+    transform: rotate(90deg);
 }
 
 .Proefcontainer {
@@ -172,6 +174,7 @@
 .Titel {
     position: absolute;
     top: 2vh;
+    font-size: calc(15px + 0.5vw);
 }
 
 .TextContainer {
@@ -252,18 +255,24 @@
 }
 
 .BenodighedenBox {
-    top: 22vh;
-    left: 18vw;
-    position: absolute;
-    width: 15vw;
+    left: 0vw;
+    position: relative;
     color: white;
+    width: 40vw;
+}
+
+.LijstLijst {
+    overflow-x: hidden;
+    height: 75vh;
+    overflow-y: scroll;
+    position: absolute;
+    top: 20vh;
 }
 
 .StappenBox{
-    position: absolute;
-    top: 22vh;
-    left: 42vw;
-    width: 20vw;
+    position: relative;
+    left: 0vw;
+    width: 40vw;
     color: white;
 }
 
@@ -275,11 +284,11 @@
 }
 
 .Ondertitel {
-    width: 35vw;
     position: relative;
     top: 8vh;
     left: 1.5vw;
     color: white;
+    font-size: calc(12px + 0.5vw);
 }
 
 .ProefBack{
@@ -289,10 +298,9 @@
 
 .VragenBox{
     color: white;
-    position: absolute;
-    top: 22vh;
-    left: 73vw;
-    width: 20vw;
+    position: relative;
+    left: 0vw;
+    width: 40vw;
 }
 
 .KleurVerandering {

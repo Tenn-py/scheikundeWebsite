@@ -1,13 +1,6 @@
 import React, { useState } from 'react';
 import './pages.css';
 import Experimenten from './experimenten/experimenten';
-import Tabladen from '../components/tabladen';
-import Setting from './setting'
-import Settings from './settings.jpg'
-import Modal from 'react-awesome-modal'
-import Text from './Text'
-import { Switch } from "@headlessui/react";
-import Main from './experimenten/sizes/sizeGet'
 
 function ExperimentPage() {
   const windowWidth = window.innerWidth;

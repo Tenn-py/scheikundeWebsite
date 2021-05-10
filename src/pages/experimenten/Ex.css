@@ -20,6 +20,7 @@
 
 .Experimenten {
     height: 85vh;
+    width: 100vw;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -27,6 +28,7 @@
     top: 15vh;
     overflow-y: scroll;
     overflow-x: hidden;
+    align-items: center;
 }
 
 .AllFilters {
@@ -37,7 +39,7 @@
 
 .Input {
     height: 3vh;
-    width: 10vw;
+    width: 20vw;
     margin-bottom: 1vh;
 }
 
@@ -57,9 +59,27 @@
 .AllVragen {
     display: flex;
     flex-direction: column;
-    position: absolute;
-    top: 10vh;
-    left: 20vw;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow-y: scroll;
+    z-index: 0;
+    top: 30vh;
+}
+
+.Nakijken {
+    width: 10vw;
+    aspect-ratio: 16/5;
+    border: 2px solid black;
+}
+
+.Sluiten {
+    width: 10vw;
+    aspect-ratio: 16/5;
+    border: 2px solid black;
+    position: relative;
+    top: 40vh;
+    left: 44.6vw;
 }
 
 ::-webkit-scrollbar {

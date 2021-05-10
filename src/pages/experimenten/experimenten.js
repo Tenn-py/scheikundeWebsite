@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Modal from 'react-awesome-modal'
 import Nakijken from './nakijken'
+import './Ex.css'
 
 function Experimenten(props, filter, background) {
 
@@ -139,12 +140,12 @@ function Experimenten(props, filter, background) {
                                 {Vragen()}
                             </div>
                         </div>
-                        <button className="CloseExp" style={{left: "40vw"}} href="javascript:void(0);" onClick={() => closeModal()}>Sluiten</button>
-                        {/*<button onClick={Handin} className="CloseExp" style={{left: "55vw"}}>nakijken</button>*/}
+                        <button className="CloseExp" style={{left: "40vw", top: "35vh"}} href="javascript:void(0);" onClick={() => closeModal()}>Sluiten</button>
+                        {/*<button onClick={Handin} className="CloseExp" style={{left: "40vw", top: "20vh"}}>nakijken</button>*/}
                         <Modal className="ProefBack" visible={handin} width="100%" height="100%" effect="fadeInDown" onClickAway={() => closeModal()}>
                             <div className="ProefBack" style={{background: props.background}}>
                                 <Nakijken proef={proef} />
-                                <button className="CloseExp" onClick={Handin}>close</button>
+                                <button className="Sluiten" onClick={Handin}>Sluiten</button>
                             </div>
                         </Modal>
                     </div>                

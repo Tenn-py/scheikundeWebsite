@@ -347,6 +347,7 @@
   .Marius {
     background: linear-gradient(red, yellow);
     min-width: 70px;
+    min-height: 70px;
     width: 5.5vw;
     aspect-ratio: 9 / 9;
     position: relative;
@@ -359,6 +360,7 @@
   .Wat {
     background: linear-gradient(rgb(0, 0, 255), rgb(171, 197, 255));
     min-width: 70px;
+    min-height: 70px;
     width: 5.5vw;
     aspect-ratio: 9 / 9;
     position: relative;
@@ -372,6 +374,7 @@
     background: linear-gradient(to right, rgb(0, 255, 13), rgb(0, 68, 255), rgb(203, 20, 2), rgb(255, 239, 10));
     width: 5.5vw;
     min-width: 70px;
+    min-height: 70px;
     aspect-ratio: 9 / 9;
     position: relative;
     border: 2px solid white;

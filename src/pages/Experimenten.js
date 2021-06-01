@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './pages.css';
 import Experimenten from './experimenten/experimenten';
+import Modal from 'react-awesome-modal'
 
 function ExperimentPage() {
   const windowWidth = window.innerWidth;

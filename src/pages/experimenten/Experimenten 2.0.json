@@ -1,11 +1,12 @@
 [
     {
-        "titel": "Hoe produceer je een onzichtbare stof?",
-        "Ondertitel": "Een onzichtbare stof is spannend, met dit experiment leer je binnen 15 minuten een onzichtbare gas te maken (net zoals lucht) met alle benodigheden uit huis!",
-        "benodigheden": "Glas-Lucifers-Waxinelichtje(s)-Lege pot-Bakpoeder-Theelepel-Eetlepel-Azijn-Volwassene-10 a 15 minuten :D",
-        "methode van onderzoek": "Stap 1: Leg het waxinelichtje in jouw glas (niet pot!!).-Stap 2: Vraag een volwassene om het waxinelichtje aan te steken of steek het waxinelichtje aan zonder je vingers te verbranden  ;).-Stap 3: Doe een theelepel bakpoeder in de lege pot.-Stap 4: Voeg 4 eetlepels azijn toe in de pot.-Stap 5: Wacht anderhalf minuut (=90 seconden).-Stap 6: Schenk voorzichtig & langzaam de LUCHT uit de pot, in het glas, zonder de azijn of bakpoeder!",
+        "titel": "Schuim maken",
+        "Ondertitel": "Dit schuim is niet het schuim wat je tegen komt in de badkamer, maar meer het soort wat zich bovenop een glas bier bevindt, net zoals bier is dit schuim NIET drinkbaar (zelfs niet voor volwassenen!).",
+        "benodigheden": "2 hoge glazen-Azijn-Zakje bakpoeder (16 gram)-Afwasmiddel-5 minuten :D",
+        "methode van onderzoek": "Stap 1: Doe het bakpoeder in glas nr. 1.-Stap 2: Doe een paar scheuten afwasmiddel in glas nr. 2.-Stap 3: Schenk azijn in het glas met de afwasmiddel tot de helft.-Stap 4: Schenk het azijn met afwasmiddel bij het andere glas in met bakpoeder.",
         "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 5: Wat is er gebeurd?-Vraag 2: Stap 5: Wat denk je dat er zal gebeuren als je de lucht uit de pot in het glas schenkt?-Vraag 3: Stap 6: Wat is er nu gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 3: Wat denk je dat er gaat gebeuren als je de stoffen mengt?-Vraag 2: Stap 4: Wat is er gebeurd?-Vraag 3: Stap 4: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "10 cent = kristaliseren",
@@ -13,15 +14,8 @@
         "benodigheden": "Munt van 10 eurocent-Schaaltje/Kommetje-Azijn-Eetlepel-5 minuten op dag 1 & 5 minuten op dag 5/6/7... :D.",
         "methode van onderzoek": "Stap 1: Leg de munt(en) in het schaaltje/kommetje.-Stap 2: Doe een laag (2 eetlepels) azijn in het schaaltje/kommetje, zodat de munt(en) volledig bedolven zijn door het azijn-Stap 3: Wacht totdat de azijn verdampt is!-Stap 4: Wacht circa een week.-Stap 5: Observeer en onderzoek de munt(en) in het schaaltje/kommetje na ongeveer een week.",
         "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 1: wat denk je dat er gebeurt als je een laag azijn in het schaaltje/kommetje doet?-Vraag 2: Stap 2: Wat denk je dat er gebeurt als de azijn verdampt?-Vraag 3: Stap 5: Wat is er gebeurd?-Vraag 4: Stap 5: Hoe denk je dat dit komt?"
-    },
-    {
-        "titel": "Kleur van koper",
-        "Ondertitel": "Paperclips zijn saai, niet waar? Suuuuuuuper saaie kleur... Gelukkig kunnen wij je helpen door de paperclip te laten verkleuren in het volgende experiment!",
-        "benodigheden": "Metalen paperclip-5 eurocent munt-Schaaltje/Kommetje-Azijn-5 minuten op dag 1 & 5 minuten op dag 2... :D.",
-        "methode van onderzoek": "Stap 1: Leg de paperclip en het muntje in de schaal.-Stap 2: Doe een laag azijn in het schaaltje, zodat de paperclip en de munt er onder bedolven liggen.-Stap 3: Wacht een dag...- Stap 4: Gooi de azijn weg na een dag (in ieder geval uit het schaaltje).-Stap 5: Observeer en onderzoek de paperclip en het muntje.",
-        "Filter": "Kleurverandering",
-        "Vragen": "Vraag 1: Stap 1: Wat denk je dat er gebeurt als je een laag azijn in het schaaltje/kommetje doet?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 1: wat denk je dat er gebeurt als je een laag azijn in het schaaltje/kommetje doet?-Vraag 2: Stap 2: Wat denk je dat er gebeurt als de azijn verdampt?-Vraag 3: Stap 5: Wat is er gebeurd?-Vraag 4: Stap 5: Hoe denk je dat dit komt?",
+        "antwoorden": "op vraag 1 Het mengsel van azijn en bakpoeder ging bruisen. Het bruisen werd langzaam minder.-op vraag 2 Alle antwoorden zijn goed, als je hebt opgeschreven wat je dacht dat er zou gebeuren.-op vraag 3 Het waxinelichtje ging uit.-op vraag 4 Alle antwoorden zijn goed, als je hebt opgeschreven hoe je denkt dat het komt."
     },
     {
         "titel": "Bonnetje?... Ja graag!",
@@ -29,71 +23,8 @@
         "benodigheden": "Kassabon-Tafel+Handoek/Strijktafel-Strijkijzer-Volwassene-10 minuten :D",
         "methode van onderzoek": "Stap 1: Leg de handdoek op de tafel, [in het geval dat je een strijktafel beschikt mag je deze stap overslaan].-Stap 2: Leg de bon op de handdoek die op de tafel licht of leg de bon op de strijktafel.-Stap 3: Kras met je nagel op de VOORkant van de bon, [Als dit te moeilijk is wegens de zachte ondergrond dan mag je de bon eventjes verplaatsen om erop te krassen].-Stap 4: draai de bon om.-Stap 5: Kras nu op dezelfde plek van de bon maar ditmaal de ACHTERkant, [Als dit weer te moeilijk is wegens de zachte ondergrond dan mag je natuurlijk de bon weer eventjes verplaatsen om erop te krassen].-Stap 6: Vraag een volwassene om de strijkijzer warm te maken en om de strijkijzer over het gekrasde stukje van de bon te laten strijken.",
         "Filter": "Overig",
-        "Vragen": "Vraag 1: Stap 5: Wat is er gebeurd?-Vraag 2: Stap 5: Wat denk je dat er gebeurt als je met een hete strijkijzer over de bon strijkt?-Vraag 3: Stap 6: Wat is er gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?"
-    },
-    {
-        "titel": "Welke kleur heeft 'rode' kool?",
-        "Ondertitel": "Kleur is makkelijk te zien, vanaf wel 100 meter afstand kan je zien welke kleur een boom heeft. Helaas is kleur niet altijd zo 'echt' en soms dus een...    ...illusie...",
-        "benodigheden": "Rode kool, (liefst NIET uit blik/pot)-Azijn-2 Glazen/Kommen-Zeef-Water-Rasp-10 minuten :D",
-        "methode van onderzoek": "Stap 1: Rasp (een stuk van) de rode kool.-Stap 2: Leg de (geraspte) kool in een van de glazen/kommen.-Stap 3: Doe water bij het glas/kommetje in zodat de kool onderop ligt.-Stap 4: Giet het water & de kool in het 2de glas/kommetje met een zeef.-Stap 5: Verdeel het gekleurde water over de 2 glazen/kommen.-Stap 6: Doe een paar druppels azijn in een van de 2 glazen/kommen.",
-       "Filter": "Kleurverandering",
-        "Vragen": "Vraag 1: Stap 2: Welke kleur heeft de kool op dit moment?-Vraag 2: Stap 4: Welke kleur heeft het water op dit moment?-Vraag 3: Stap 5: Wat denk je dat er gebeurt als je azijn bij het gekleurde water doet?-Vraag 4: Stap 6: Wat is er gebeurd?-Vraag 5: Stap 6: Hoe denk je dat dit komt?"
-    },
-    {
-        "titel": "Zelf elektriciteit opwekken",
-        "Ondertitel": "Kan je elektriciteit opwekken met een citroen? Kom erachter hoe dit moet en hoe dit komt!",
-        "benodigheden": "Citroen-5 eurocent munt-(Verzinkte) spijker-Schilmesje-Schoon water-Theedoek-10 minuten :D",
-        "methode van onderzoek": "Stap 1: Maak de munt en de spijker schoon met het water.-Stap 2: Droog beide af.-Stap 3: Snij met het schilmesje een gleuf in de citroenthee ter breedte van de munt.-Stap 4: Stop de munt in de citroen voor 75%, zodat er nog een beetje uitsteekt.-Stap 5: Steek de citroen met de spijker naast het muntje zodat ongeveer hetzelfde deel van de spijker zichtbaar is als het muntje.-Stap 6: Houd je tong alleen tegen de munt.-Stap 7: Houd je tong alleen tegen de spijker.-Stap 8: Houd je tong tegen beide aan.",
-        "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 5: Wat denk je dat er gebeurt als je je tong tegen de munt drukt/-spijker drukt/-beide drukt?-Vraag 2: Stap 8: Wat is er gebeurd?-Vraag 3: Stap 8: Hoe denk je dat dit komt?"
-    },
-    {
-        "titel": "Zinken en drijven tegelijkertijd?",
-        "Ondertitel": "Met deze proef onderzoek je welke bepaalde dingen kunnen zinken en drijven tegelijkertijd. Sommige dingen zinken en sommige dingen drijven, met deze omweg doe je beide!",
-        "benodigheden": "Glas (liefst groot)-Water-Liniaal-Zonnebloemolie-Glazen knikker-Klein stukje hout-Plastic (een dopje bijv.)-Metalen munt-Kurk-Andere zelfvoorgestelde voorwerpen-15 minuten :D",
-        "methode van onderzoek": "Stap 1: Leg de liniaal verticaal (=naar boven) in het glas.-Stap 2: Doe 3 cm water in het glas, hiervoor gebruik je de liniaal.-Stap 3: Doe 3 cm zonnebloemolie bij het water, NIET schudden!-Stap 4: Kijk na of je nu over 6 cm vloeistof beschikt. Zo nee; voeg zonnebloemolie toe totdat je de gewenste hoeveelhied verkrijgt. Zo ja; ga door naar stap 5.-Stap 5: Haal de liniaal uit het glas.-Stap 6: Doe de knikker in het glas.-Stap 7: Doe de munt in het glas.-Stap 8: Doe het stukje plastic in het glas en duw deze voorzichtig naar beneden.-Stap 9: Leg de kurk in het glas.-Stap 10: Leg het hout in het glas.-Stap 11: Leg de overige objecten in het glas (één voor één!).",
-        "Filter": "Water",
-        "Vragen": "Vraag 1: Stap 3: Wat is er gebeurd?-Vraag 2: Stap 3: Hoe denk je dat dit komt?-Vraag 3: Stap 5: Wat denk je dat er gaat gebeuren als je de voorwerpen één voor één in het glas legt?-Vraag 4: Stap 11: Wat is er gebeurd?-Vraag 5: Stap 11: Hoe denk je dat dit komt?"
-    },
-    {
-        "titel": "Sterker dan botten",
-        "Ondertitel": "Er zitten botten in je lichaam zodat je niet in elkaar zakt bij elke beweging, botten zijn dan ook heel sterk om jou dag en nacht te dragen. Met deze proef laat ik je zien hoe je de vorige bewering kan verwaardelozen...",
-        "benodigheden": "2 Kippenbotjes-Azijn-Lege pot met deksel!-2x 5 minuten (1x vandaag en 1x over één week :D)",
-        "methode van onderzoek": "Stap 1: Leg één botje in de pot.-Stap 2: Vul de pot met azijn tot de rand.-Stap 3: Doe de deksel op de pot.-Stap 4: Bewaar de pot en het overige botje goed.-Stap 5: Wacht een week.-Stap 6: Haal het botje uit de pot.-Stap 7: probeer beide botjes te buigen. Stap 8: Haal een vriend op en geef hem het botje dat NIET in het azijn lag en vraag hem om het botje te buigen, wanneer dit niet lukt buig jij jouw botje waardoor het lijkt dat jij supersterk bent! Uiteraard moet je hem niet zeggen wat je met het botje hebt gedaan. Jouw geheim!",
-        "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 4: Wat denk je dat er gebeurt als je één week wacht?-Vraag 2: Stap 7: Wat is het verschil?-Vraag 3: Stap 7: Hoe denk je dat dit komt?"
-    },
-    {
-        "titel": "Schuim maken",
-        "Ondertitel": "Dit schuim is niet het schuim wat je tegen komt in de badkamer, maar meer het soort wat zich bovenop een glas bier bevindt, net zoals bier is dit schuim NIET drinkbaar (zelfs niet voor volwassenen!).",
-        "benodigheden": "2 hoge glazen-Azijn-Zakje bakpoeder (16 gram)-Afwasmiddel-5 minuten :D",
-        "methode van onderzoek": "Stap 1: Doe het bakpoeder in glas nr. 1.-Stap 2: Doe een paar scheuten afwasmiddel in glas nr. 2.-Stap 3: Schenk azijn in het glas met de afwasmiddel tot de helft.-Stap 4: Schenk het azijn met afwasmiddel bij het andere glas in met bakpoeder.",
-        "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 3: Wat denk je dat er gaat gebeuren als je de stoffen mengt?-Vraag 2: Stap 4: Wat is er gebeurd?-Vraag 3: Stap 4: Hoe denk je dat dit komt?"
-    },
-    {
-        "titel": "Zalfje erop!",
-        "Ondertitel": "Zalf is een wondermiddel; het helpt tegen spierpijn, rode huid en de meeste insectenbeten! In deze proef maak je je eigen zalf binnen 25 minuten!",
-        "benodigheden": "Één eetlepel vaseline-Een pannetje-Kookplaatje (kan ook op het fornuis maar vraag voor hulp aan een volwassene)-Gedroogde kamille of goudsbloem-Maïskiemolie (of zonnebloemolie)-Koffiefilter-Leeg potje/bakje (liefst met deksel)-(Eventueel is een thermometer van toepassing indien je je temperatuur niet aflezen kan.)-25 minuten :D",
-        "methode van onderzoek": "Stap 1: Neem een eetlepel vaseline en doe het in het pannetje.-Stap 2: Zet het pannetje op de kookplaat.-Stap 3: Verwarm de vaseline tot hij smelt ((circa 50 graden Celsius) Pas op !! Bij een te hoge temperatuur gaat de vaseline stinken en roken, als dit het geval is moet je overwegen een lagere stand te gebruiken).-Stap 4: Voeg de gedroogde kamille of goudsbloem toe.-Stap 5: Wacht 10 minuten.-Stap 6: Voeg één theelepel van 1v.d.2 oliën toe zodat het mengsel vloeibaarder wordt en roer een beetje met de theelepel.-Stap 7: Giet het warme mengsel door het koffiefiltertje heen in je bakje of potje.-Stap 8: laat de zalf afkoelen.-Stap 9: Testen!-Stap 10: eenmaal klaar, zet de deksel op het bakje/potje, nu is de zalf houdbaar voor minstens een half jaar!",
-        "Filter": "Overig",
-        "Vragen": "Vraag 1: Stap 6: Wat denk je dat het residu wordt (= hetgene wat vast blijft zitten in de filter)?-Vraag 2: Stap 6: Wat denk je dat het filtraat wordt (= hetgene dat gefilterd is en dus in het bakje/potje tevoorschijn komt)?-Vraag 3: Stap 9: Is de zalf functioneel?-Vraag 4: Stap 9: Maak een conclusie over de zalf."
-    },
-    {
-        "titel": "Warmtegevende stof",
-        "Ondertitel": "Deze stof die je gaat maken kan je warmte geven, zelfs middenin de winter! Maar pas op, alle goeie dingen komen met een prijs; deze stof is ernstig irriterend, was alsjeblieft je handen na dit proefje en probeer te voorkomen dat het in je ogen komt.",
-        "benodigheden": "2 (beker)glazen-Water-Thermometer-Papier-Pen-Twee eetlepels CaCl2 (=vochtvreter)-Volwassene bij gebruik van de CaCl2-5/10 minuten :D",
-        "methode van onderzoek": "Stap 1: Vul beide glazen voor 2/3 deel met water.-Stap 2: Meet de temperatuur van het water d.m.v. de thermometer.-Stap 3: Schrijf de temperatuur op het papier.-Stap 4: Doe in één van de glazen twee eetlepels CaCl2.-Stap 5: Meet de temperatuur van beide glazen opnieuw.-Stap 6: Noteer beide temperaturen.-Stap 7: Doop voorzichtig je vinger in het water en vervolgens in de zelfgemaakte stof, probeer of je het temperatuurverschil ook zelf kan voelen.-Stap 8: Was goed je handen!",
-        "Filter": "Water",
-        "Vragen": "Vraag 1: Stap 4: Wat voor temperatuur verwacht je voor het glas met de CaCl2 erin?-Vraag 2: Stap 6: Wat denk je dat je voelt als je je vinger in de glazen stopt?-Vraag 3: Stap 7: Wat heb je gevoeld?-Vraag 4: Stap 7: Hoe denk je dat dit komt?-Vraag 5: Stap 8: Heb je goed je handen gewassen?"
-    },
-    {
-        "titel": "Parfum maken",
-        "Ondertitel": "De meeste parfum kost heel veel geld, je bent al gauw €50,- kwijt voor een flesje parfum, terwijl je het heel gemakkelijk en goedkoop zelf kan maken. Vind hier uit hoe dat moet!",
-        "benodigheden": "Leeg parfumflesje-Pannetje-Kookplaat of gasbrander-Water-Gedroogde of verse bloemen, (andere geurende ingrediënten mogen ook zoals kaneel of sinaasappelschil(len))-Zeefje-Maatcilinder-Ethanol (of een andere alchohol zoals Wodka)-Volwassene-20 minuten :D",
-        "methode van onderzoek": "Stap 1: Doe de ingrediënten waarvan jij denkt dat ze samen een lekkere geur vormen bij elkaar in het pannetje.-Stap 2: Vul het pannetje met water waardoor de ingrediënten net onder water staan.-Stap 3: Kook het water op het kookplaatje of gasbrander, wacht tot 2/3 van het water is verdampt.-Stap 4: Laat het mengsel afkoelen en giet het door het zeefje in de maatcilinder.-Stap 5: Vul het parfumflesje voor 1/5 deel met het geurmengsel en voor 4/5 deel met de ethanol, (Pas op! Ethanol is giftig en vlambaar, niet proeven en ver van ontstekingsbronnen houden!), dit kan en mag op gevoel maar het is aan te raden om af te lezen hoeveel mL er in het parfumflesje past en daarna de maatcilinder gebruiken om de hoeveelheden af te lezen.-Stap 6: Schud het flesje goed en spuit een beetje parfum op je pols. Ruik of het een succes is geworden, zo niet; probeer een andere geur combinatie en herstart het proefje.",
-        "Filter": "Water",
-        "Vragen": "Vraag 1: Stap 4: Wat zit er in het residu (= hetgene wat achterblijft in de filter)?-Vraag 2: Stap 4: Wat zit er in het filtraat (= hetgene wat door de filter heen is gegaan en dus nu in het parfumflesje zit)?-Vraag 3: Stap 6: Is de parfum gelukt?-Vraag 4: Stap 6: Plak eventueel een logo van bijv. Clive Christian No 1 of Imperial Majesty op je zelfgemaakte parfum en geef het aan een dierbaar persoon, wat een cadeau!"
+        "Vragen": "Vraag 1: Stap 5: Wat is er gebeurd?-Vraag 2: Stap 5: Wat denk je dat er gebeurt als je met een hete strijkijzer over de bon strijkt?-Vraag 3: Stap 6: Wat is er gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Stuiteren met eigen stuiterbal",
@@ -101,15 +32,100 @@
         "benodigheden": "Plastic/Latex handschoenen-Maatcilinder van minimaal 20 mL-Waterglas (= water met 35% natriumsilicaat)-Ethanol-Water-Volwassene-Plastic bekertje-(ijs)stokje of iets anders dat gebruikt kan worden als roermiddel-20 minuten :D (verdeeld over circa 3 dagen)",
         "methode van onderzoek": "Stap 1: Doe je handschoenen aan.-Stap 2: Doe 20 mL waterglas in de maatcilinder en lees hem af, (Pas op! Waterglas is giftig en gevaarlijk voor ogen en huid, bij aanraking onmiddelijk afspoelen en huisarts bellen).-Stap 3: Giet de vloeistof in het plastic bekertje.-Stap 4: Spoel de maatcilinder om en meet daarna 10 mL ethanol af (Pas op! Ethanol is vlambaar en giftig, niet bij ontstekingsbronnen houden en ook niet proeven!).-Stap 5: Giet de ethanol bij het waterglas in, in het plastic bekertje.-Stap 6: Roer met het stokje de substantie in een gelijkmatige cirkelbeweging (met de klok mee of tegen de klok in (niet halverwege afwisselen!)).-Stap 7: Eenmaal de stof getransformeerd is in een soort gel, mag je proberen een bal te kneden van de substantie. Je moet stoppen met kneden wanneer de bal wit wordt, anders gaat het afbrokkelen.-Stap 8: Wacht een dag.-Stap 9: Let op! Het experiment is nog niet voltooid... Probeer nu voorzichtig de bal één maal te laten stuiteren.- Stap 10: Wacht enkele dagen.-Stap 11: Probeer nogmaals de bal te laten stuiteren.",
         "Filter": "Overig",
-        "Vragen": "Vraag 1: Stap 4: Wat denk je dat er gaat gebeuren als je de stoffen met elkaar vermengt?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Wat denk je dat er gaat gebeuren als je de stoffen gaat roeren?-Vraag 4: Stap 6: Wat is er gebeurd? Vraag 5: Stap 11: Merk je verschil tussen de stuiterbal van eergisteren en die van nu? Zo ja, welke?"
+        "Vragen": "Vraag 1: Stap 4: Wat denk je dat er gaat gebeuren als je de stoffen met elkaar vermengt?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Wat denk je dat er gaat gebeuren als je de stoffen gaat roeren?-Vraag 4: Stap 6: Wat is er gebeurd? Vraag 5: Stap 11: Merk je verschil tussen de stuiterbal van eergisteren en die van nu? Zo ja, welke?",
+        "antwoorden": ""
     },
+    {
+        "titel": "Kleur van koper",
+        "Ondertitel": "Paperclips zijn saai, niet waar? Suuuuuuuper saaie kleur... Gelukkig kunnen wij je helpen door de paperclip te laten verkleuren in het volgende experiment!",
+        "benodigheden": "Metalen paperclip-5 eurocent munt-Schaaltje/Kommetje-Azijn-5 minuten op dag 1 & 5 minuten op dag 2... :D.",
+        "methode van onderzoek": "Stap 1: Leg de paperclip en het muntje in de schaal.-Stap 2: Doe een laag azijn in het schaaltje, zodat de paperclip en de munt er onder bedolven liggen.-Stap 3: Wacht een dag...- Stap 4: Gooi de azijn weg na een dag (in ieder geval uit het schaaltje).-Stap 5: Observeer en onderzoek de paperclip en het muntje.",
+        "Filter": "Kleurverandering",
+        "Vragen": "Vraag 1: Stap 1: Wat denk je dat er gebeurt als je een laag azijn in het schaaltje/kommetje doet?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Hoe denk je dat dit komt?",
+        "antwoorden": ""
+    },
+    {
+        "titel": "Welke kleur heeft 'rode' kool?",
+        "Ondertitel": "Kleur is makkelijk te zien, vanaf wel 100 meter afstand kan je zien welke kleur een boom heeft. Helaas is kleur niet altijd zo 'echt' en soms dus een...    ...illusie...",
+        "benodigheden": "Rode kool, (liefst NIET uit blik/pot)-Azijn-2 Glazen/Kommen-Zeef-Water-Rasp-10 minuten :D",
+        "methode van onderzoek": "Stap 1: Rasp (een stuk van) de rode kool.-Stap 2: Leg de (geraspte) kool in een van de glazen/kommen.-Stap 3: Doe water bij het glas/kommetje in zodat de kool onderop ligt.-Stap 4: Giet het water & de kool in het 2de glas/kommetje met een zeef.-Stap 5: Verdeel het gekleurde water over de 2 glazen/kommen.-Stap 6: Doe een paar druppels azijn in een van de 2 glazen/kommen.",
+        "Filter": "Kleurverandering",
+        "Vragen": "Vraag 1: Stap 2: Welke kleur heeft de kool op dit moment?-Vraag 2: Stap 4: Welke kleur heeft het water op dit moment?-Vraag 3: Stap 5: Wat denk je dat er gebeurt als je azijn bij het gekleurde water doet?-Vraag 4: Stap 6: Wat is er gebeurd?-Vraag 5: Stap 6: Hoe denk je dat dit komt?",
+        "antwoorden": ""
+    },
+    {
+        "titel": "Zelf elektriciteit opwekken",
+        "Ondertitel": "Kan je elektriciteit opwekken met een citroen? Kom erachter hoe dit moet en hoe dit komt!",
+        "benodigheden": "Citroen-5 eurocent munt-(Verzinkte) spijker-Schilmesje-Schoon water-Theedoek-10 minuten :D",
+        "methode van onderzoek": "Stap 1: Maak de munt en de spijker schoon met het water.-Stap 2: Droog beide af.-Stap 3: Snij met het schilmesje een gleuf in de citroenthee ter breedte van de munt.-Stap 4: Stop de munt in de citroen voor 75%, zodat er nog een beetje uitsteekt.-Stap 5: Steek de citroen met de spijker naast het muntje zodat ongeveer hetzelfde deel van de spijker zichtbaar is als het muntje.-Stap 6: Houd je tong alleen tegen de munt.-Stap 7: Houd je tong alleen tegen de spijker.-Stap 8: Houd je tong tegen beide aan.",
+        "Filter": "Chemische Reactie",
+        "Vragen": "Vraag 1: Stap 5: Wat denk je dat er gebeurt als je je tong tegen de munt drukt/-spijker drukt/-beide drukt?-Vraag 2: Stap 8: Wat is er gebeurd?-Vraag 3: Stap 8: Hoe denk je dat dit komt?",
+        "antwoorden": ""
+    },
+    {
+        "titel": "Hoe produceer je een onzichtbare stof?",
+        "Ondertitel": "Een onzichtbare stof is spannend, met dit experiment leer je binnen 15 minuten een onzichtbare gas te maken (net zoals lucht) met alle benodigheden uit huis!",
+        "benodigheden": "Glas-Lucifers-Waxinelichtje(s)-Lege pot-Bakpoeder-Theelepel-Eetlepel-Azijn-Volwassene-10 a 15 minuten :D",
+        "methode van onderzoek": "Stap 1: Leg het waxinelichtje in jouw glas (niet pot!!).-Stap 2: Vraag een volwassene om het waxinelichtje aan te steken of steek het waxinelichtje aan zonder je vingers te verbranden  ;).-Stap 3: Doe een theelepel bakpoeder in de lege pot.-Stap 4: Voeg 4 eetlepels azijn toe in de pot.-Stap 5: Wacht anderhalf minuut (=90 seconden).-Stap 6: Schenk voorzichtig & langzaam de LUCHT uit de pot, in het glas, zonder de azijn of bakpoeder!",
+        "Filter": "Chemische Reactie",
+        "Vragen": "Vraag 1: Stap 5: Wat is er gebeurd?-Vraag 2: Stap 5: Wat denk je dat er zal gebeuren als je de lucht uit de pot in het glas schenkt?-Vraag 3: Stap 6: Wat is er nu gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?",
+        "antwoorden": ""
+    },
+    {
+        "titel": "Zinken en drijven tegelijkertijd?",
+        "Ondertitel": "Met deze proef onderzoek je welke bepaalde dingen kunnen zinken en drijven tegelijkertijd. Sommige dingen zinken en sommige dingen drijven, met deze omweg doe je beide!",
+        "benodigheden": "Glas (liefst groot)-Water-Liniaal-Zonnebloemolie-Glazen knikker-Klein stukje hout-Plastic (een dopje bijv.)-Metalen munt-Kurk-Andere zelfvoorgestelde voorwerpen-15 minuten :D",
+        "methode van onderzoek": "Stap 1: Leg de liniaal verticaal (=naar boven) in het glas.-Stap 2: Doe 3 cm water in het glas, hiervoor gebruik je de liniaal.-Stap 3: Doe 3 cm zonnebloemolie bij het water, NIET schudden!-Stap 4: Kijk na of je nu over 6 cm vloeistof beschikt. Zo nee; voeg zonnebloemolie toe totdat je de gewenste hoeveelhied verkrijgt. Zo ja; ga door naar stap 5.-Stap 5: Haal de liniaal uit het glas.-Stap 6: Doe de knikker in het glas.-Stap 7: Doe de munt in het glas.-Stap 8: Doe het stukje plastic in het glas en duw deze voorzichtig naar beneden.-Stap 9: Leg de kurk in het glas.-Stap 10: Leg het hout in het glas.-Stap 11: Leg de overige objecten in het glas (één voor één!).",
+        "Filter": "Water",
+        "Vragen": "Vraag 1: Stap 3: Wat is er gebeurd?-Vraag 2: Stap 3: Hoe denk je dat dit komt?-Vraag 3: Stap 5: Wat denk je dat er gaat gebeuren als je de voorwerpen één voor één in het glas legt?-Vraag 4: Stap 11: Wat is er gebeurd?-Vraag 5: Stap 11: Hoe denk je dat dit komt?",
+        "antwoorden": ""
+    },
+    {
+        "titel": "Sterker dan botten",
+        "Ondertitel": "Er zitten botten in je lichaam zodat je niet in elkaar zakt bij elke beweging, botten zijn dan ook heel sterk om jou dag en nacht te dragen. Met deze proef laat ik je zien hoe je de vorige bewering kan verwaardelozen...",
+        "benodigheden": "2 Kippenbotjes-Azijn-Lege pot met deksel!-2x 5 minuten (1x vandaag en 1x over één week :D)",
+        "methode van onderzoek": "Stap 1: Leg één botje in de pot.-Stap 2: Vul de pot met azijn tot de rand.-Stap 3: Doe de deksel op de pot.-Stap 4: Bewaar de pot en het overige botje goed.-Stap 5: Wacht een week.-Stap 6: Haal het botje uit de pot.-Stap 7: probeer beide botjes te buigen. Stap 8: Haal een vriend op en geef hem het botje dat NIET in het azijn lag en vraag hem om het botje te buigen, wanneer dit niet lukt buig jij jouw botje waardoor het lijkt dat jij supersterk bent! Uiteraard moet je hem niet zeggen wat je met het botje hebt gedaan. Jouw geheim!",
+        "Filter": "Chemische Reactie",
+        "Vragen": "Vraag 1: Stap 4: Wat denk je dat er gebeurt als je één week wacht?-Vraag 2: Stap 7: Wat is het verschil?-Vraag 3: Stap 7: Hoe denk je dat dit komt?",
+        "antwoorden": ""
+    },
+
+    {
+        "titel": "Zalfje erop!",
+        "Ondertitel": "Zalf is een wondermiddel; het helpt tegen spierpijn, rode huid en de meeste insectenbeten! In deze proef maak je je eigen zalf binnen 25 minuten!",
+        "benodigheden": "Één eetlepel vaseline-Een pannetje-Kookplaatje (kan ook op het fornuis maar vraag voor hulp aan een volwassene)-Gedroogde kamille of goudsbloem-Maïskiemolie (of zonnebloemolie)-Koffiefilter-Leeg potje/bakje (liefst met deksel)-(Eventueel is een thermometer van toepassing indien je je temperatuur niet aflezen kan.)-25 minuten :D",
+        "methode van onderzoek": "Stap 1: Neem een eetlepel vaseline en doe het in het pannetje.-Stap 2: Zet het pannetje op de kookplaat.-Stap 3: Verwarm de vaseline tot hij smelt ((circa 50 graden Celsius) Pas op !! Bij een te hoge temperatuur gaat de vaseline stinken en roken, als dit het geval is moet je overwegen een lagere stand te gebruiken).-Stap 4: Voeg de gedroogde kamille of goudsbloem toe.-Stap 5: Wacht 10 minuten.-Stap 6: Voeg één theelepel van 1v.d.2 oliën toe zodat het mengsel vloeibaarder wordt en roer een beetje met de theelepel.-Stap 7: Giet het warme mengsel door het koffiefiltertje heen in je bakje of potje.-Stap 8: laat de zalf afkoelen.-Stap 9: Testen!-Stap 10: eenmaal klaar, zet de deksel op het bakje/potje, nu is de zalf houdbaar voor minstens een half jaar!",
+        "Filter": "Overig",
+        "Vragen": "Vraag 1: Stap 6: Wat denk je dat het residu wordt (= hetgene wat vast blijft zitten in de filter)?-Vraag 2: Stap 6: Wat denk je dat het filtraat wordt (= hetgene dat gefilterd is en dus in het bakje/potje tevoorschijn komt)?-Vraag 3: Stap 9: Is de zalf functioneel?-Vraag 4: Stap 9: Maak een conclusie over de zalf.",
+        "antwoorden": ""
+    },
+    {
+        "titel": "Warmtegevende stof",
+        "Ondertitel": "Deze stof die je gaat maken kan je warmte geven, zelfs middenin de winter! Maar pas op, alle goeie dingen komen met een prijs; deze stof is ernstig irriterend, was alsjeblieft je handen na dit proefje en probeer te voorkomen dat het in je ogen komt.",
+        "benodigheden": "2 (beker)glazen-Water-Thermometer-Papier-Pen-Twee eetlepels CaCl2 (=vochtvreter)-Volwassene bij gebruik van de CaCl2-5/10 minuten :D",
+        "methode van onderzoek": "Stap 1: Vul beide glazen voor 2/3 deel met water.-Stap 2: Meet de temperatuur van het water d.m.v. de thermometer.-Stap 3: Schrijf de temperatuur op het papier.-Stap 4: Doe in één van de glazen twee eetlepels CaCl2.-Stap 5: Meet de temperatuur van beide glazen opnieuw.-Stap 6: Noteer beide temperaturen.-Stap 7: Doop voorzichtig je vinger in het water en vervolgens in de zelfgemaakte stof, probeer of je het temperatuurverschil ook zelf kan voelen.-Stap 8: Was goed je handen!",
+        "Filter": "Water",
+        "Vragen": "Vraag 1: Stap 4: Wat voor temperatuur verwacht je voor het glas met de CaCl2 erin?-Vraag 2: Stap 6: Wat denk je dat je voelt als je je vinger in de glazen stopt?-Vraag 3: Stap 7: Wat heb je gevoeld?-Vraag 4: Stap 7: Hoe denk je dat dit komt?-Vraag 5: Stap 8: Heb je goed je handen gewassen?",
+        "antwoorden": ""
+    },
+    {
+        "titel": "Parfum maken",
+        "Ondertitel": "De meeste parfum kost heel veel geld, je bent al gauw €50,- kwijt voor een flesje parfum, terwijl je het heel gemakkelijk en goedkoop zelf kan maken. Vind hier uit hoe dat moet!",
+        "benodigheden": "Leeg parfumflesje-Pannetje-Kookplaat of gasbrander-Water-Gedroogde of verse bloemen, (andere geurende ingrediënten mogen ook zoals kaneel of sinaasappelschil(len))-Zeefje-Maatcilinder-Ethanol (of een andere alchohol zoals Wodka)-Volwassene-20 minuten :D",
+        "methode van onderzoek": "Stap 1: Doe de ingrediënten waarvan jij denkt dat ze samen een lekkere geur vormen bij elkaar in het pannetje.-Stap 2: Vul het pannetje met water waardoor de ingrediënten net onder water staan.-Stap 3: Kook het water op het kookplaatje of gasbrander, wacht tot 2/3 van het water is verdampt.-Stap 4: Laat het mengsel afkoelen en giet het door het zeefje in de maatcilinder.-Stap 5: Vul het parfumflesje voor 1/5 deel met het geurmengsel en voor 4/5 deel met de ethanol, (Pas op! Ethanol is giftig en vlambaar, niet proeven en ver van ontstekingsbronnen houden!), dit kan en mag op gevoel maar het is aan te raden om af te lezen hoeveel mL er in het parfumflesje past en daarna de maatcilinder gebruiken om de hoeveelheden af te lezen.-Stap 6: Schud het flesje goed en spuit een beetje parfum op je pols. Ruik of het een succes is geworden, zo niet; probeer een andere geur combinatie en herstart het proefje.",
+        "Filter": "Water",
+        "Vragen": "Vraag 1: Stap 4: Wat zit er in het residu (= hetgene wat achterblijft in de filter)?-Vraag 2: Stap 4: Wat zit er in het filtraat (= hetgene wat door de filter heen is gegaan en dus nu in het parfumflesje zit)?-Vraag 3: Stap 6: Is de parfum gelukt?-Vraag 4: Stap 6: Plak eventueel een logo van bijv. Clive Christian No 1 of Imperial Majesty op je zelfgemaakte parfum en geef het aan een dierbaar persoon, wat een cadeau!",
+        "antwoorden": ""
+    },
+
     {
         "titel": "Rookkringen schieten",
         "Ondertitel": "Rook is tof, maar hoe bewaar je rook eigenlijk om het vervolgens weg te schieten?",
         "benodigheden": "Leeg ranjablik/limonadesiroopblik-Wierookstokje-Plastic zak-Plakband-Blikopener-Schaar-Lepel-(Drink)glas-Aansteker/Lucifers-15 minuten :D",
         "methode van onderzoek": "Stap 1: Draai de dop van het lege blik.-Stap 2: Gebruik de lepel als hefboom om de schenktuit van het blik af te halen.-Stap 3: Pak de blikopener en snij hiermee de onderkant van het blik eraf.-Stap 4: Knip de plastic zak in een cirkel die 2 a 3 centimeter groter is dan de omtrek van de opengesneden onderkant van het blik.-Stap 5: Plak het plastic strak vast aan de onderkant van het blik met de plakband zodat de 2 a 3 centimeter plastic vastzitten aan de zijkant van het blik.-Stap 6: Zet het wierookstokje in het glas en steek het wierookstokje aan, pas op! heet!-Stap 7: Blaas het wierookstokje uit waardoor het stokje begint te roken.-Stap 8: Vang de rook van het wierookstokje op met het blik door deze erboven te houden.-Stap 9: Eenmaal alle wierook is opgevangen mag je het blik eraf halen en horizontaal houden, pas op dat er geen rook ontsnapt!-Stap 10: Geef een zachte tik tegen het strakke plastic.",
         "Filter": "Vuur",
-        "Vragen": "Vraag 1: Stap 9: Wat denk je dat er gaat gebeuren eenmaal je een tik geeft tegen het plastic?-Vraag 2: Stap 10: Wat is er gebeurd?-Vraag 3: Stap 10: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 9: Wat denk je dat er gaat gebeuren eenmaal je een tik geeft tegen het plastic?-Vraag 2: Stap 10: Wat is er gebeurd?-Vraag 3: Stap 10: Hoe denk je dat dit komt?",
+        "antwoorden": "op vraag 1 Alle antwoorden zijn goed, als je hebt opgeschreven wat je dacht dat er zou gebeuren.-op vraag 2 Als je met je hand op het plastic tikt, dan komt er rook uit het gat in het blik. De rook heeft de vorm van een kring. De rookkring beweegt van het blik weg.-op vraag 3 Alle antwoorden zijn goed als je hebt opgeschreven hoe je denkt dat het komt."
     },
     {
         "titel": "Wolken produceren",
@@ -117,7 +133,8 @@
         "benodigheden": "Wijnfles waar je door heen kan kijken-Vacuümdop voor een wijnfles-Vacuümpomp voor een wijnfles-Lucifers-Water-Zwarte achtergrond (zodat je de wolk beter kan zien)-10 minuten :D",
         "methode van onderzoek": "Stap 1: Doe een laag water in de fles.-Stap 2: Zet de fles neer voor een zwarte achtergrond.-Stap 3: Steek de lucifer aan en laat deze in de fles vallen.-Stap 4: Doe de vacuümdop op de fles.-Stap 5: Schud de fles.-Stap 6: Gebruik de vacuümpomp en pomp de lucht uit de fles.-Stap 7: Laat weer lucht in de fles stromen.",
         "Filter": "Vuur",
-        "Vragen": "Vraag 1: Stap 5: Wat denk je dat er gaat gebeuren als je de lucht uit de fles pompt?-Vraag 2: Stap 6: Wat is er gebeurd?-Vraag 3: Stap 6: Hoe denk je dat dit komt?-Vraag 4: Stap 6: Wat denk je dat er gaat gebeuren als je de lucht weer in de fles laat stromen?-Vraag 5: Stap 7: Wat is er gebeurd?-Vraag 6: Stap 7: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 5: Wat denk je dat er gaat gebeuren als je de lucht uit de fles pompt?-Vraag 2: Stap 6: Wat is er gebeurd?-Vraag 3: Stap 6: Hoe denk je dat dit komt?-Vraag 4: Stap 6: Wat denk je dat er gaat gebeuren als je de lucht weer in de fles laat stromen?-Vraag 5: Stap 7: Wat is er gebeurd?-Vraag 6: Stap 7: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Rozijnen met magie",
@@ -125,7 +142,8 @@
         "benodigheden": "Rozijnen-Water met koolzuur (Spa rood/rooie Chaudfontaine)-Glas-5 minuten :D",
         "methode van onderzoek": "Stap 1: Schenk het water met koolzuur in het glas.-Stap 2: Doe de rozijnen in het glas, (niet teveel zodat ze elkaar in de weg zitten).-Stap 3: Observeer!-Stap 4: Laat een vriend dit proefje zien en zeg dat het 'magische' rozijnen zijn om hem beet te laten pakken!",
         "Filter": "Water",
-        "Vragen": "Vraag 1: Stap 1: Wat denk je dat er gaat gebeuren als je de rozijnen in het glas doet?-Vraag 2: Stap 3: Wat is er gebeurd?-Vraag 3: Stap 3: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 1: Wat denk je dat er gaat gebeuren als je de rozijnen in het glas doet?-Vraag 2: Stap 3: Wat is er gebeurd?-Vraag 3: Stap 3: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Suiker terughalen",
@@ -133,7 +151,8 @@
         "benodigheden": "Suiker-Water-Lepel-Satéprikker-Garen-Glas-Pan-Kookplaatje/Fornuis-(Indien gekozen voor fornuis, raad ik aan om een volwassene te hulp vragen)-25 minuten op dag 1 en 3 minuten na één week :D",
         "methode van onderzoek": "Stap 1: Vul het glas met water.-Stap 2: Vul de pan met water wat uit het glas komt.-Stap 3: Kook het water in de pan of vraag een volwassene om het water te koken.-Stap 4: Vul het glas met suiker en gooi dit in de pan met kokend water, doe dit 3 maal.-Stap 5: Doe de inhoud van de pan in het glas.-Stap 6: Knip X aantal centimeter garen af waarbij X gelijk staat als de lengte van het glas + 1.-Stap 7: Knoop de X centimeter garen vast aan de satéprikker.-Stap 8: Leg de satéprikker op het glas zodat het garen in het glas hangt.-Stap 9: Wacht een week.-Stap 10: Observeer!",
         "Filter": "Water",
-        "Vragen": "Vraag 1: Stap 3: Hoeveel suiker denk je dat je kan oplossen in deze hoeveelheid water?-Vraag 2: Stap 8: Wat denk je dat er gaat gebeuren?-Vraag 3: Stap 10: Wat is er gebeurd?-Vraag 4: Stap 10: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 3: Hoeveel suiker denk je dat je kan oplossen in deze hoeveelheid water?-Vraag 2: Stap 8: Wat denk je dat er gaat gebeuren?-Vraag 3: Stap 10: Wat is er gebeurd?-Vraag 4: Stap 10: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Een kaars in het glas, is een limonadeplas!",
@@ -141,7 +160,8 @@
         "benodigheden": "Limonade (zonder koolzuur (= prik))-Glas-'diep' bord-Waxinelichtje-Lucifers/Aansteker-Volwassene-10 minuten :D",
         "methode van onderzoek": "Stap 1: Giet een kleine laag limonade in het bord.-Stap 2: Zet het waxinelichtje in het midden van het bord.-Stap 3: Steek voorzichtig het waxinelichtje aan zonder je te verbranden of vraag een volwassene om dit te doen.-Stap 4: Zet het glas (met de holle kant) neer op het waxinelichtje zodat er geen lucht meer bij komt.-Stap 5: Observeer!",
         "Filter": "Vuur",
-        "Vragen": "Vraag 1: Stap 3: Wat denk je dat er gaat gebeuren eenmaal je het glas op het waxinelichtje plaatst?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Hoe denk je dat dit komt?-Vraag 4: Stap >5 (groter dan 5): Vraag eventueel een vriend om te kijken hoe jij magie verricht; beweeg gracieus met je handen om aan te tonen dat deze samenkomst van limonade aan jou te danken is!"
+        "Vragen": "Vraag 1: Stap 3: Wat denk je dat er gaat gebeuren eenmaal je het glas op het waxinelichtje plaatst?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Hoe denk je dat dit komt?-Vraag 4: Stap >5 (groter dan 5): Vraag eventueel een vriend om te kijken hoe jij magie verricht; beweeg gracieus met je handen om aan te tonen dat deze samenkomst van limonade aan jou te danken is!",
+        "antwoorden": "op vraag 1 Alle antwoorden zijn goed, als je hebt opgeschreven wat je dacht dat er zou gebeuren.-op vraag 2 Eerst brandt het waxinelichtje. Tijdens het branden ontstaan er heel kleine waterdruppeltjes (condens) op het glas. Na korte tijd gaat het waxinelichtje uit. Er komt een beetje rook van het lont. De limonade stroomt in het glas.-op vraag 3-Alle antwoorden zijn goed, als je hebt opgeschreven hoe je denkt dat dit komt."
     },
     {
         "titel": "Makkelijk geheimschrift",
@@ -149,7 +169,8 @@
         "benodigheden": "Wit papier-Melk-Wattenstaafje-Strijkijzer-Volwassene-Onbepaald aantal minuten (hangt van de lengte van het geheimschrift af :D)",
         "methode van onderzoek": "Stap 1: Doop het wattenstaafje in de melk.-Stap 2: Schrijf met het wattenstaafje een proef-boodschap op het vel papier.-Stap 3: Wacht totdat de boodschap is opgedroogd.-Stap 4: Vraag een volwassene om het papier heet te maken met eens strijkijzer.-Stap 5: Nu kan je zelf een boodschap maken en aan een vriend geven, deze moet je dan wel de juiste instructies geven zodat deze de boodschap lezen kan!",
         "Filter": "Kleurverandering",
-        "Vragen": "Vraag 1: Stap 3: Kan jij de boodschap lezen? Zo ja; wacht nog heel even. Zo nee; ga door naar stap 4.-Vraag 2: Stap 4: Wat is er gebeurd?-Vraag 3: Stap 4: Hoe denk je dat dit komt?-Vraag 4: Stap 5: Heeft de vriend de boodschap begrepen?"
+        "Vragen": "Vraag 1: Stap 3: Kan jij de boodschap lezen? Zo ja; wacht nog heel even. Zo nee; ga door naar stap 4.-Vraag 2: Stap 4: Wat is er gebeurd?-Vraag 3: Stap 4: Hoe denk je dat dit komt?-Vraag 4: Stap 5: Heeft de vriend de boodschap begrepen?",
+        "antwoorden": ""
     },
     {
         "titel": "Prik produceren in limonade",
@@ -157,7 +178,8 @@
         "benodigheden": "Drinkglas-Water-Limonadesiroop-Theelepel-Bakpoeder-5 minuten :D",
         "methode van onderzoek": "Stap 1: Vul het glas met water.-Stap 2: Voeg 1/2 theelepel bakpoeder toe aan het water.-Stap 3: Voeg limonadesiroop toe aan de substantie.-Stap 4: Roer de substantie voorzichtig en langzaam met het theelepeltje.-Stap 5: Wacht even tot de meeste schuim weg is.-Stap 6: Neem voorzichtig een slok uit het glas.",
         "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 4: Wat is er gebeurd?-Vraag 2: Stap 4: Hoe denk je dat dit komt?-Vraag 3: Stap 6: Wat proef je?-Vraag 4: Stap 6: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 4: Wat is er gebeurd?-Vraag 2: Stap 4: Hoe denk je dat dit komt?-Vraag 3: Stap 6: Wat proef je?-Vraag 4: Stap 6: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Je mag je ogen niet geloven",
@@ -165,7 +187,8 @@
         "benodigheden": "Vergeet-mij-nietje in de bloei-Schaar-KLEURLOZE Azijn-Kommetje-2x 10 minuten (10 min. en dan 10 min. na een half uur :D)",
         "methode van onderzoek": "Stap 1: Knip een paar bloemen van het vergeet-mij-nietje af.-Stap 2: Leg het vergeet-mij-nietje in de kom.-Stap 3: Vul de kom met azijn zodat het vergeet-mij-nietje overspoeld is.-Stap 4: Wacht een half uur.-Stap 5: Observeer!",
         "Filter": "Kleurverandering",
-        "Vragen": "Vraag 1: Stap 2: Wat denk je dat er gaat gebeuren als het vergeet-mij-nietje overspoeld wordt met azijn?-Vraag 2: Stap 3: Wat is er gebeurd?-Vraag 3: Stap 3: Wat denk je dat er gaat gebeuren als je een half uur wacht?-Vraag 4: Stap 5: Wat is er gebeurd?-Vraag 5: Stap 5: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 2: Wat denk je dat er gaat gebeuren als het vergeet-mij-nietje overspoeld wordt met azijn?-Vraag 2: Stap 3: Wat is er gebeurd?-Vraag 3: Stap 3: Wat denk je dat er gaat gebeuren als je een half uur wacht?-Vraag 4: Stap 5: Wat is er gebeurd?-Vraag 5: Stap 5: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Bewijzen dat er zich vlokken bevinden in Cola",
@@ -173,7 +196,8 @@
         "benodigheden": "Cola (500 mL fles aangeraden)-Melk-5 minuten op dag 1 en 5 minuten op dag 2 :D",
         "methode van onderzoek": "Stap 1: Drink een beetje Cola uit de fles, (of, als je geen cola lust, giet een beetje Cola uit de fles).-Stap 2: Schenk heel rustig een beetje melk in de fles.-Stap 3: Draai de dop op de fles en maak hem goed dicht.-Stap 4: Houd de fles tijdelijk op zijn kop en zet daarna de fles weer neer.-Stap 5: Wacht een dag.-Stap 6: Observeer!",
         "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 4: Wat is er gebeurd?-Vraag 2: Stap 4: Hoe denk je dat dit komt?-Vraag 3: Stap 6: Wat is er nu gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 4: Wat is er gebeurd?-Vraag 2: Stap 4: Hoe denk je dat dit komt?-Vraag 3: Stap 6: Wat is er nu gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Zacht ei?",
@@ -181,7 +205,8 @@
         "benodigheden": "Rauw ei-Bakje/Kommetje-Azijn-Schoon water-5 minuten op dag nr. 1, & 5 minuten op dag nr. 2",
         "methode van onderzoek": "Stap 1: Leg het ei in het bakje/kommetje.-Stap 2: Vul het bakje/kommetje met azijn zodat het hele ei bedekt is.-Stap 3: Wacht 2 dagen.-Stap 4: Haal het ei uit het bakje.-Stap 5: Spoel het ei af met het schone water.-Stap 6: Geef het ei een zacht knijpje!",
         "Filter": "Chemische Reactie",
-        "Vragen": "Vraag 1: Stap 2: Wat denk je dat er gaat gebeuren als het ei 2 dagen in het azijn ligt?-Vraag 2: Stap 5: Wat denk je dat er gaat gebeuren als je het ei een zacht knijpje geeft?-Vraag 3: Stap 6: Wat is er gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 2: Wat denk je dat er gaat gebeuren als het ei 2 dagen in het azijn ligt?-Vraag 2: Stap 5: Wat denk je dat er gaat gebeuren als je het ei een zacht knijpje geeft?-Vraag 3: Stap 6: Wat is er gebeurd?-Vraag 4: Stap 6: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "Je mag je ogen niet geloven #2",
@@ -189,6 +214,7 @@
         "benodigheden": "Kurkuma(/Koenjit poeder)-Glas-Water-Soda (= één soort schoonmaakmiddel-Theelepel-Azijn-Volwassene-10 minuten :D",
         "methode van onderzoek": "Stap 1: Vul het glas voor de helft met water.-Stap 2: Doe één theelepel kurkuma/koenjit bij het glas in.-Stap 3: Roer de kurkuma goed door het water heen.-Stap 4: Vraag een volwassene om één theelepel soda in het glas te doen.-Stap 5: Roer de soda door de samenstelling heen of vraag een volwassene de soda door de samenstelling heen te roeren.-Stap 6: Doe circa een halve centimeter azijn bovenop de substantie en begin deze te roeren.-Stap 7: Observeer!",
         "Filter": "Kleurverandering",
-        "Vragen": "Vraag 1: Stap 4: Wat denk je dat er gaat gebeuren als je de soda begint te roeren?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Hoe denk je dat dit komt?-Vraag 4: Stap 5: Wat verwacht je dat er gebeurt als de soda toegevoegd wordt?-Vraag 5: Stap 7: Wat is er gebeurd?-Vraag 6: Stap 7: Hoe denk je dat dit komt?"
+        "Vragen": "Vraag 1: Stap 4: Wat denk je dat er gaat gebeuren als je de soda begint te roeren?-Vraag 2: Stap 5: Wat is er gebeurd?-Vraag 3: Stap 5: Hoe denk je dat dit komt?-Vraag 4: Stap 5: Wat verwacht je dat er gebeurt als de soda toegevoegd wordt?-Vraag 5: Stap 7: Wat is er gebeurd?-Vraag 6: Stap 7: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     }
 ]

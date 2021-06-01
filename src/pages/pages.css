@@ -93,13 +93,17 @@
 }
 
 .SettingsButton {
-    aspect-ratio: 9 / 9;
-    height: 8vh;
+    aspect-ratio: 24 / 4;
+    width: 21vw;
     justify-content: center;
     align-items: center;
-    position: absolute;
-    top: 88vh;
+    position: relative;
+    top: 95vh;
     border: 2px solid white;
+    background:  linear-gradient(to right, rgb(15, 32, 39), rgb(32, 58, 67), rgb(44, 83, 100));
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
 }
 
 .SettingsImg {

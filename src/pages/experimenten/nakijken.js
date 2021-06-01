@@ -21,17 +21,15 @@ export default function Nakijken(props, proef) {
     }
 
     function Check() {
-        
+        const answersList = experimenten[props.proef].antwoorden.split("-")
+        return answersList.map((ant) => <p>{ant}</p>)
     }
 
 
     return(
         <div className="AllVragen">
-            {Vragen()}
-            <button className="Nakijken" onClick={Check}>
-                Nakijken
-            </button>
+            <h1>antwoorden</h1>
+            {Check()}
         </div>
-
     )
 }

@@ -8,9 +8,11 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.4",
     "@testing-library/user-event": "^12.6.3",
+    "gotrue-js": "^0.9.29",
     "react": "^17.0.1",
     "react-awesome-modal": "^2.0.5",
     "react-dom": "^17.0.1",
+    "react-meta-tags": "^1.0.1",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
@@ -41,7 +43,7 @@
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.1.2",
     "autoprefixer": "^9.8.6",
-    "postcss": "^7.0.35",
+    "postcss": ">=7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   }
 }

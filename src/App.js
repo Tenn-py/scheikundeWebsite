@@ -42,8 +42,6 @@ export default class LoginControl extends React.Component {
         <div>
           {button}
           {home}
-          <meta property="og:title" content="Scheikunde Proefjes"/>
-          <meta property="og:description" content="dit is een leuke website om met uw kinderen scheikunde proefjes te doen"/>
         </div>
       );
     }

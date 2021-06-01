@@ -8,8 +8,8 @@
     animation: ease-in-out;
     transition: 0.5s;
     flex-direction: column;
-    height: 10vh;
-    width: 40vw;
+    height: 20vh;
+    width: 30vw;
     min-width: 250px;
     position: relative;
     font-size: 1.7vh;
@@ -61,10 +61,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: relative;
     overflow-y: scroll;
     z-index: 0;
-    top: 30vh;
+    width: 50vw;
+    min-width: 250px;
+    color: white;
 }
 
 .Nakijken {
@@ -74,12 +75,17 @@
 }
 
 .Sluiten {
+    width: 30vw;
+    height: 7.5vh;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.SSluiten {
     width: 10vw;
     aspect-ratio: 16/5;
     border: 2px solid black;
     position: relative;
-    top: 40vh;
-    left: 44.6vw;
 }
 
 ::-webkit-scrollbar {

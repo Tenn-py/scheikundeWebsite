@@ -21,14 +21,12 @@
     min-width: 300px;
     aspect-ratio: 1/1;
     background: white;
-    position: absolute;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     display: flex;
     margin-bottom: 40px;
     overflow: hidden;
-    top: 0vh;
 }
 
 .Uitleg {

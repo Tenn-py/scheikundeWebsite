@@ -25,10 +25,9 @@
 }
 
 .Loginout {
-  position: absolute;
-  top: 72vh;
-  left: 35vw;
-  width: 30vw;
+  position: relative;
+  top: 30vh;
+  width: 20vw;
   min-width: 300px;
   min-height: 100px;
   aspect-ratio: 6/2;

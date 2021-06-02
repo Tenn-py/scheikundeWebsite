@@ -39,7 +39,7 @@ export default class LoginControl extends React.Component {
       }
   
       return (
-        <div>
+        <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh'}}>
           {button}
           {home}
         </div>

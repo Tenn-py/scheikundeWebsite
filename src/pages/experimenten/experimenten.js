@@ -129,6 +129,15 @@ function Experimenten(props, filter, background) {
         }
     }
 
+    function but() {
+        if (experimenten[proef].antwoorden !== "") {
+            return <button onClick={Handin} className="CloseExp" style={{left: "40vw", top: "20vh"}}>nakijken</button>
+        } else {
+            return ""
+        }
+    }
+ 
+
     return (
         <div className="Experimenten">
             {Filter()}
@@ -153,7 +162,8 @@ function Experimenten(props, filter, background) {
                             </div>
                         </div>
                         <button className="CloseExp" style={{left: "40vw", top: "45vh"}} href="javascript:void(0);" onClick={() => closeModal()}>Sluiten</button>
-                        <button onClick={Handin} className="CloseExp" style={{left: "40vw", top: "20vh"}}>nakijken</button>
+                        {but()}
+                        {/*<button onClick={Handin} className="CloseExp" style={{left: "40vw", top: "20vh"}}>nakijken</button>*/}
                         <Modal className="ProefBack" visible={handin} width="100%" height="100%" effect="fadeInDown" onClickAway={() => closeModal()}>
                             <div className="ProefBack" style={{background: props.background, display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column"}}>
                                 <Nakijken proef={proef} />

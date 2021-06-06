@@ -8,6 +8,8 @@ import Cent from './unnamed.jpg'
 import Bon from './download (1).jpg'
 import Stuiterbal from './Stuiterbal.jpg'
 import Schuim from './fotos/Capture.JPG'
+import MagischeRozijnen from './fotos/dansenderozijnen.jpg'
+import Bonnetje from './fotos/boonnetje.jpg'
 
 function Experimenten(props, filter, background) {
 
@@ -17,7 +19,7 @@ function Experimenten(props, filter, background) {
     var elim;
     let titels = []
     const [proef, setproef] = useState(0)
-    let images = [Schuim, Cent, Bon, Stuiterbal]
+    let images = [Schuim, MagischeRozijnen, Cent, Bonnetje, Stuiterbal]
     var AllFilters = []
     const filters = []
     const Vuur = []

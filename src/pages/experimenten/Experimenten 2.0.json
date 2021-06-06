@@ -7,6 +7,15 @@
         "Filter": "Chemische Reactie",
         "Vragen": "Vraag 1: Stap 3: Wat denk je dat er gaat gebeuren als je de stoffen mengt?-Vraag 2: Stap 4: Wat is er gebeurd?-Vraag 3: Stap 4: Hoe denk je dat dit komt?",
         "antwoorden": ""
+    },    
+    {
+        "titel": "Rozijnen met magie",
+        "Ondertitel": "Rozijnen zijn gedroogde druiven, maar wist je dat ze magische krachten beschikken? Althans, zo zal het eruit zien als je dit proefje laat zien aan een van jouw vrienden!",
+        "benodigheden": "Rozijnen-Water met koolzuur (Spa rood/rooie Chaudfontaine)-Glas-5 minuten :D",
+        "methode van onderzoek": "Stap 1: Schenk het water met koolzuur in het glas.-Stap 2: Doe de rozijnen in het glas, (niet teveel zodat ze elkaar in de weg zitten).-Stap 3: Observeer!-Stap 4: Laat een vriend dit proefje zien en zeg dat het 'magische' rozijnen zijn om hem beet te laten pakken!",
+        "Filter": "Water",
+        "Vragen": "Vraag 1: Stap 1: Wat denk je dat er gaat gebeuren als je de rozijnen in het glas doet?-Vraag 2: Stap 3: Wat is er gebeurd?-Vraag 3: Stap 3: Hoe denk je dat dit komt?",
+        "antwoorden": ""
     },
     {
         "titel": "10 cent = kristaliseren",
@@ -136,15 +145,7 @@
         "Vragen": "Vraag 1: Stap 5: Wat denk je dat er gaat gebeuren als je de lucht uit de fles pompt?-Vraag 2: Stap 6: Wat is er gebeurd?-Vraag 3: Stap 6: Hoe denk je dat dit komt?-Vraag 4: Stap 6: Wat denk je dat er gaat gebeuren als je de lucht weer in de fles laat stromen?-Vraag 5: Stap 7: Wat is er gebeurd?-Vraag 6: Stap 7: Hoe denk je dat dit komt?",
         "antwoorden": ""
     },
-    {
-        "titel": "Rozijnen met magie",
-        "Ondertitel": "Rozijnen zijn gedroogde druiven, maar wist je dat ze magische krachten beschikken? Althans, zo zal het eruit zien als je dit proefje laat zien aan een van jouw vrienden!",
-        "benodigheden": "Rozijnen-Water met koolzuur (Spa rood/rooie Chaudfontaine)-Glas-5 minuten :D",
-        "methode van onderzoek": "Stap 1: Schenk het water met koolzuur in het glas.-Stap 2: Doe de rozijnen in het glas, (niet teveel zodat ze elkaar in de weg zitten).-Stap 3: Observeer!-Stap 4: Laat een vriend dit proefje zien en zeg dat het 'magische' rozijnen zijn om hem beet te laten pakken!",
-        "Filter": "Water",
-        "Vragen": "Vraag 1: Stap 1: Wat denk je dat er gaat gebeuren als je de rozijnen in het glas doet?-Vraag 2: Stap 3: Wat is er gebeurd?-Vraag 3: Stap 3: Hoe denk je dat dit komt?",
-        "antwoorden": ""
-    },
+
     {
         "titel": "Suiker terughalen",
         "Ondertitel": "Suiker lost op in water, maar je kan het suiker ook weer terugkrijgen en zichtbaar maken. Met deze proef laat ik zien hoe dat moet!",
